@@ -1,5 +1,9 @@
 An opiniated deno webapp template with sift + packup.
 
+# TODO
+
+- [ ] setup GitHub Actions for Deno Deploy
+
 # Clone this template
 
 ```shell
